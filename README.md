@@ -8,10 +8,6 @@
 
 - 🌱 I’m currently focused on **Go lang, DevOps, and Kubernetes.**
 
-- 👨‍💻 All of my projects are available at [hellas.dev](hellas.dev)
-
-- 📝 I regularly write articles on [hellas.dev/blog](hellas.dev/blog)
-
 - 💬 Ask me about **Go lang, DevOps, Kubernetes, or just nerding out about cool tech stuff!**
 
 - 📫 How to reach me **info@hellas.dev**
