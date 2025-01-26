@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **info@hellas.dev**
 
-- 📄 Know about my experiences [hellas.dev/resume](hellas.dev/resume)
+- 📄 Know about my experiences [Resume](Resume)
 
 - ⚡ Fun fact **My favorite function is fmt.Println() because it never lets me down.**
 
