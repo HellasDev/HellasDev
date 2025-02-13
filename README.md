@@ -62,7 +62,7 @@
   <a href="https://instagram.com/hellasdev" target="blank">
     <img align="center" src="https://img.icons8.com/?size=100&id=42818&format=png&color=000000" alt="hellasdev" height="44" width="50" />
   </a>
-  <a href="https://www.linkedin.com/in/george-bereveskos" target="blank">
+  <a href="https://www.linkedin.com/in/george-bereveskos-17a2a8334" target="blank">
     <img align="center" src="https://img.icons8.com/?size=100&id=67570&format=png&color=000000" alt="hellasdev" height="55" width="65" />
   </a>
 </p>
