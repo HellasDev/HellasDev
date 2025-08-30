@@ -104,15 +104,6 @@ _All-in-one terminal productivity dashboard with tasks, notes, calendar, and wea
 
 ---
 
-
-### 🎨 [One Dark Pro Adminer Theme](https://github.com/HellasDev/Adminer-Theme)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](#)
-[![Theme](https://img.shields.io/badge/Theme-One%20Dark%20Pro-282c34?style=flat)](#)
-
-_Modern dark theme for Adminer database administration tool_
-
-**Features:** Dark Mode • JetBrains Mono • Responsive Design
-
 </div>
 
 ---
